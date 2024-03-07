@@ -1,0 +1,10 @@
+.idea/
+fer2013/
+jaffe/
+ck+/
+__pycache__/
+.ipynb_check*
+*.pkl
+*.zip
+*.rar
+*.h5
